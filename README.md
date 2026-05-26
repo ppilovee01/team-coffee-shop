@@ -31,7 +31,7 @@
 
 ### 1. คลอนรีโพสิทอรี (Clone the Repository)
 \`\`\`bash
-git clone https://github.com/[username]/[repo-name].git
+git clone https://github.com/ppilovee01/Git-Day1-Test
 cd [repo-name]
 \`\`\`
 
@@ -54,16 +54,6 @@ npm run dev
 \`\`\`
 เปิดไปที่ `http://localhost:3000` เพื่อดูผลลัพธ์ 🥳
 
----
-
-## 📸 ภาพตัวอย่าง (Screenshots)
-
-| หน้าแรก (Home) | หน้าแดชบอร์ด (Dashboard) |
-| :---: | :---: |
-| <img src="[ลิงก์รูปภาพของคุณ]" width="400"> | <img src="[ลิงก์รูปภาพของคุณ]" width="400"> |
-
----
-
 ## 🤝 การมีส่วนร่วม (Contributing)
 
 ยินดีรับฟังทุกคำแนะนำและโค้ดรีเควสครับ! หากต้องการสนับสนุน:
@@ -83,9 +73,8 @@ npm run dev
 
 ## 📬 ติดต่อ (Contact)
 
-*   **ผู้พัฒนา:** [ชื่อของคุณ]
-*   **อีเมล:** [your.email@example.com]
-*   **LinkedIn:** [ลิงก์ LinkedIn ของคุณ]
+*   **ผู้พัฒนา:** [คมสัน]
+*   **อีเมล:** [ppilovee01@gmail.com]
 
 ---
 ⚡ _ขอบคุณที่แวะเข้ามาชมโปรเจกต์นี้นะครับ ถ้าชอบอย่าลืมกด ⭐️ ให้ด้วยน้า!_
