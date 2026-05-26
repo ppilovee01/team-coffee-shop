@@ -1,5 +1,5 @@
 # Git-Day1-Test
-# 🚀 [ชื่อโปรเจกต์ของคุณ]
+# 🚀 [Coffee Shop]
 
 <!-- ใส่ Badge สวยๆ (เลือกตาม Stack ที่ใช้) -->
 ![GitHub repo size](https://img.shields.io/github/repo-size/[username]/[repo-name])
